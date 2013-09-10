@@ -6,6 +6,9 @@ gem 'rails', '4.0.0'
 
 group :development do
   gem 'sqlite3', '1.3.7'
+  gem "wirble"
+  gem "hirb"
+  gem "awesome_print"
 end
 
 gem 'sass-rails', '4.0.0'
